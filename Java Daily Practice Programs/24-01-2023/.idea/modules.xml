@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnonymousInner/AnonymousInner.iml" filepath="$PROJECT_DIR$/AnonymousInner/AnonymousInner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final/Final.iml" filepath="$PROJECT_DIR$/Final/Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InnerClass/InnerClass.iml" filepath="$PROJECT_DIR$/InnerClass/InnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InnerStatic/InnerStatic.iml" filepath="$PROJECT_DIR$/InnerStatic/InnerStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input/Input.iml" filepath="$PROJECT_DIR$/Input/Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocalInner/LocalInner.iml" filepath="$PROJECT_DIR$/LocalInner/LocalInner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OPPS.iml" filepath="$PROJECT_DIR$/.idea/OPPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
+    </modules>
+  </component>
+</project>

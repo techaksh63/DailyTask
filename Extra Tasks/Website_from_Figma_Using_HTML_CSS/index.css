@@ -1,0 +1,1669 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+.covidhomecarelive-child,
+.header-child {
+  position: absolute;
+  top: 3288px;
+  left: 0;
+  width: 1500px;
+  height: 1539px;
+  fill: linear-gradient(340deg, #64CF83 47.7%, #FFF 47.71%);
+}
+.header-child {
+  top: 0;
+  background-color: white;
+  height: 746px;
+}
+.untitled-design-1 {
+  position: absolute;
+  height: 51.15%;
+  width: 12.73%;
+  top: 25.19%;
+  right: 76.2%;
+  bottom: 23.66%;
+  left: 11.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.what-we-do {
+  position: absolute;
+  top: 55px;
+  left: 835px;
+  letter-spacing: 0.01em;
+}
+.prevention {
+  position: absolute;
+  left: 983px;
+}
+.contact-us,
+.prevention,
+.symptoms {
+  top: 55px;
+  letter-spacing: 0.01em;
+}
+.symptoms {
+  position: absolute;
+  left: 1111px;
+}
+.contact-us {
+  left: 1238px;
+}
+.contact-us,
+.home,
+.navbar {
+  position: absolute;
+}
+.home {
+  top: 55px;
+  left: 749px;
+  letter-spacing: 0.01em;
+  color: #44B564;
+  font-size: 18px;
+}
+.navbar {
+  top: 0;
+  left: 0;
+  width: 1500px;
+  height: 131px;
+  font-size: 18px;
+  color: #333;
+}
+.together-we-fight {
+  margin: 0;
+  color: #333;
+  font-size: 42px;
+}
+.together-we-fight-container1 {
+  width: 100%;
+}
+.seque-empowers-you,
+.together-we-fight-container {
+  position: absolute;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 539px;
+}
+.together-we-fight-container {
+  top: 42px;
+  letter-spacing: 0.01em;
+  line-height: 56px;
+  color: darkgray;
+  height: 109px;
+}
+.seque-empowers-you {
+  top: 171px;
+  font-size: 22px;
+  letter-spacing: 0.02em;
+  line-height: 40px;
+  color: rgba(51, 51, 51, 0.65);
+}
+.let-us-help {
+  color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+  display: flex;
+width: 190px;
+height: 53px;
+padding: 24px 56px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+flex-shrink: 0;
+
+}
+.cta {
+  position: absolute;
+  top: 361px;
+  left: 0;
+  width: 190px;
+  height: 53px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 56px;
+  box-sizing: border-box;
+  font-size: 24px;
+  color: var(--color-white);
+  border-radius: 24px;
+  background: #44B564;
+}
+.covid-19-alert {
+  position: absolute;
+  top: 0;   
+  left: 37px;
+  color: red;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+  line-height: 42px;
+  font-weight: 500;
+}
+.group-child {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  border-radius: 3px;
+  width: 27px;
+  height: 27px;
+}
+.b,
+.polygon-parent {
+  position: absolute;
+  height: 36.6px;
+}
+.b {
+  top: 0;
+  left: 11.7px;
+  letter-spacing: 0.02em;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  width: 4.6px;
+}
+.polygon-parent {
+  top: 2px;
+  left: 4px;
+  width: 27px;
+}
+.together-we-fight-covid-19-parent {
+  width: 539px;
+  position: relative;
+  height: 414px;
+}
+.fighting-against-coronavirusa-icon {
+  width: 548px;
+  position: relative;
+  height: 536.5px;
+}
+.group-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 65px;
+}
+.header-inner {
+  position: absolute;
+  top: 153.9px;
+  left: 166px;
+  width: 1152px;
+  height: 536.5px;
+  font-size: 42px;
+  color: red;
+}
+.header,
+.header-item {
+  position: absolute;
+  left: 0;
+}
+.header-item {
+  top: 280px;
+  width: 128px;
+  height: 251px;
+  overflow: hidden;
+}
+.header {
+  top: 0;
+  width: 1500px;
+  height: 746px;
+  color: darkgray;
+}
+.covidhomecarelive-item,
+.record-child {
+  position: absolute;
+  top: 1015px;
+  left: 1372px;
+  width: 128px;
+  height: 251px;
+}
+.record-child {
+  top: 0;
+  left: 0;
+  background-color: white;
+  box-shadow: 0 0 57px -7px rgba(119, 119, 119, 0.12);
+  width: 1168px;
+  height: 231px;
+}
+.div,
+.div1,
+.total-cases {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  font-weight: 500;
+  color: #555;
+  font-size: 20px;
+}
+.div,
+.div1 {
+  top: 79px;
+  left: 29px;
+  color: #777;
+}
+.div1 {
+  top: 34px;
+  left: 0;
+  font-size: 28px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  color: #484848;
+}
+.total-cases-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 120px;
+  height: 101px;
+}
+.active-cases,
+.div2,
+.from-total-cases {
+  position: absolute;
+  top: 0;
+  left: 28px;
+  font-weight: 500;
+  color: #555;
+  font-size: 20px;
+}
+.div2,
+.from-total-cases {
+  top: 79px;
+  left: 0;
+  color: #777;
+}
+.div2 {
+  top: 34px;
+  left: 29px;
+  font-size: 28px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  color: #484848;
+}
+.active-cases-parent {
+  position: absolute;
+  top: 0;
+  left: 229px;
+  width: 179px;
+  height: 101px;
+}
+.div3,
+.recovered {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  font-weight: 500;
+  color: #555;
+  font-size: 20px;
+}
+.div3 {
+  top: 34px;
+  left: 30px;
+  font-size: 28px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  color: #64cf82;
+}
+.recovered-parent {
+  position: absolute;
+  top: 0;
+  left: 516px;
+  width: 181px;
+  height: 101px;
+}
+.deaths,
+.div4 {
+  position: absolute;
+  top: 0;
+  left: 59px;
+  font-weight: 500;
+  color: #555;
+  font-size: 20px;
+}
+.div4 {
+  top: 34px;
+  left: 32px;
+  font-size: 28px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  color: red;
+}
+.deaths-parent,
+.group-container {
+  position: absolute;
+  top: 0;
+  left: 805px;
+  width: 185px;
+  height: 101px;
+}
+.group-container {
+  top: 40px;
+  left: 90px;
+  width: 990px;
+}
+.div5,
+.india {
+  position: absolute;
+  top: 0;
+  left: 56px;
+  color: #777;
+  font-size: 18px;
+}
+.div5 {
+  top: 3px;
+  left: 107px;
+  font-weight: 500;
+}
+.last-update-april {
+  position: absolute;
+  top: 0;
+  left: 125px;
+  color: #777;
+  font-size: 18px;
+
+}
+.image-9-icon,
+.india-parent {
+  position: absolute;
+  height: 22px;
+}
+.image-9-icon {
+  top: 0;
+  left: 0;
+  border-radius: 2px;
+  width: 33.9px;
+  object-fit: cover;
+}
+.india-parent {
+  top: 184px;
+  left: 402px;
+  width: 356px;
+  text-align: left;
+  color: gray;
+}
+.record {
+  position: absolute;
+  top: 755px;
+  left: 166px;
+  width: 1168px;
+  height: 231px;
+  text-align: center;
+  color: dimgray;
+  border-radius: 24px;
+background: #FFF;
+box-shadow: 0px 0px 57px -7px rgba(119, 119, 119, 0.12);
+}
+.floor-icon,
+.plants-icon,
+.plants-icon1,
+.shadows-icon {
+  position: absolute;
+  height: 55.96%;
+  width: 100%;
+  top: 44.02%;
+  right: 0;
+  bottom: 0.02%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.plants-icon,
+.plants-icon1,
+.shadows-icon {
+  height: 23.67%;
+  width: 93.53%;
+  top: 67.59%;
+  right: 3.24%;
+  bottom: 8.74%;
+  left: 3.24%;
+}
+.plants-icon,
+.plants-icon1 {
+  height: 90.14%;
+  width: 8.68%;
+  top: 2.1%;
+  right: 0;
+  bottom: 7.75%;
+  left: 91.32%;
+}
+.plants-icon1 {
+  height: 100%;
+  width: 9.78%;
+  top: 0;
+  right: 90.22%;
+  bottom: 0;
+  left: 0;
+}
+.plants,
+.world-icon {
+  position: absolute;
+  height: 17.28%;
+  width: 99.68%;
+  top: 58.18%;
+  right: 0.04%;
+  bottom: 24.55%;
+  left: 0.29%;
+}
+.world-icon {
+  height: 53.4%;
+  width: 50.2%;
+  top: 0;
+  right: 24.91%;
+  bottom: 46.6%;
+  left: 24.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.character-1-icon,
+.character-2-icon,
+.character-3-icon,
+.shield-icon,
+.shield-icon1 {
+  position: absolute;
+  height: 63.13%;
+  width: 18.65%;
+  top: 14.29%;
+  right: 3.83%;
+  bottom: 22.58%;
+  left: 77.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.character-1-icon,
+.character-2-icon,
+.shield-icon,
+.shield-icon1 {
+  height: 57.95%;
+  width: 20.36%;
+  top: 30.46%;
+  right: 37.84%;
+  bottom: 11.59%;
+  left: 41.8%;
+}
+.character-1-icon,
+.shield-icon,
+.shield-icon1 {
+  height: 67.51%;
+  width: 21.17%;
+  top: 12.32%;
+  right: 75.5%;
+  bottom: 20.16%;
+  left: 3.33%;
+}
+.shield-icon,
+.shield-icon1 {
+  height: 100%;
+  width: 29.85%;
+  top: 0;
+  right: -0.04%;
+  bottom: 0;
+  left: 70.19%;
+}
+.shield-icon1 {
+  width: 29.81%;
+  right: 70.19%;
+  left: 0;
+}
+.shields {
+  position: absolute;
+  height: 24.55%;
+  width: 50.74%;
+  top: 53.45%;
+  right: 24.64%;
+  bottom: 22%;
+  left: 24.62%;
+}
+.anti-covid-icon,
+.anti-covid-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 15.73%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 84.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.anti-covid-icon1 {
+  height: 99.88%;
+  right: 84.27%;
+  bottom: 0.12%;
+  left: 0;
+}
+.virus {
+  position: absolute;
+  height: 16.49%;
+  width: 85.07%;
+  top: 1.13%;
+  right: 7.46%;
+  bottom: 82.38%;
+  left: 7.46%;
+}
+.winning-the-battle-against-cor {
+  position: absolute;
+  height: 98.62%;
+  width: 47.6%;
+  top: 0.75%;
+  right: 52.4%;
+  bottom: 0.62%;
+  left: 0;
+}
+.group-item {
+  position: absolute;
+  top: 58.5px;
+  left: -1.5px;
+  border-top: 3px solid mediumseagreen;
+  box-sizing: border-box;
+  width: 156px;
+  height: 3px;
+}
+.what-we-do-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 233px;
+  height: 60px;
+  color: darkslategray;
+}
+.covid-19-positive {
+  position: absolute;
+  top: 90px;
+  left: 0;
+  letter-spacing: 0.02em;
+  line-height: 32px;
+  font-weight: 500;
+  display: inline-block;
+  width: 512px;
+  color: #555;
+  font-size: 20px;
+}
+.arrow-thin-long-02-right {
+  position: absolute;
+  top: 0;
+  left: 107.5px;
+  width: 28px;
+  height: 22px;
+  overflow: hidden;
+}
+.contact-us-parent {
+  position: absolute;
+  top: 11px;
+  left: 15.5px;
+  width: 135.5px;
+  height: 22px;
+}
+.group-inner,
+.group-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40.1px;
+  height: 47px;
+}
+.group-parent1 {
+  top: 483px;
+  width: 151px;
+  color: vdarkslategray;
+}
+.virus-icon {
+  position: absolute;
+  height: 100%;
+  width: 10.54%;
+  top: 0;
+  right: 89.46%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facilities-of-blood {
+  position: absolute;
+  top: 0;
+  left: 50.4px;
+  letter-spacing: 0.02em;
+  line-height: 32px;
+  font-weight: 500;
+}
+.virus-icon1,
+.virus-parent {
+  position: absolute;
+  height: 13.22%;
+  width: 69.93%;
+  top: 0;
+  right: 30.07%;
+  bottom: 86.78%;
+  left: 0;
+}
+.virus-icon1 {
+  height: 100%;
+  width: 12.91%;
+  right: 87.09%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bp-measurement {
+  position: absolute;
+  top: 0;
+  left: 50.4px;
+  letter-spacing: 0.02em;
+  line-height: 32px;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.virus-group,
+.virus-icon2 {
+  position: absolute;
+  height: 13.22%;
+  width: 57.08%;
+  top: 17.36%;
+  right: 42.92%;
+  bottom: 69.42%;
+  left: 0;
+}
+.virus-icon2 {
+  height: 100%;
+  width: 12.49%;
+  top: 0;
+  right: 87.51%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.virus-container,
+.virus-icon3 {
+  position: absolute;
+  height: 13.22%;
+  width: 59.02%;
+  top: 34.71%;
+  right: 40.98%;
+  bottom: 52.07%;
+  left: 0;
+}
+.virus-icon3 {
+  height: 100%;
+  width: 12%;
+  top: 0;
+  right: 88%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.virus-icon4,
+.virus-parent1 {
+  position: absolute;
+  height: 13.22%;
+  width: 61.45%;
+  top: 52.07%;
+  right: 38.55%;
+  bottom: 34.71%;
+  left: 0;
+}
+.virus-icon4 {
+  height: 100%;
+  width: 14.87%;
+  top: 0;
+  right: 85.13%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.virus-icon5,
+.virus-parent2 {
+  position: absolute;
+  height: 13.22%;
+  width: 49.56%;
+  top: 69.42%;
+  right: 50.44%;
+  bottom: 17.36%;
+  left: 0;
+}
+.virus-icon5 {
+  height: 100%;
+  width: 7.37%;
+  top: 0;
+  right: 92.63%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-parent2,
+.virus-parent3 {
+  position: absolute;
+  height: 13.22%;
+  width: 100%;
+  top: 86.78%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group-parent2 {
+  height: 45.66%;
+  width: 80.55%;
+  top: 39.81%;
+  right: 19.45%;
+  bottom: 14.53%;
+  color: #555;
+  font-size: 20px;
+}
+.group-div {
+  position: absolute;
+  top: 0;
+  left: 656px;
+  width: 512px;
+  height: 530px;
+}
+.winning-the-battle-against-cor-parent {
+  position: absolute;
+  height: 10.98%;
+  width: 77.87%;
+  top: 24.43%;
+  right: 11.07%;
+  bottom: 64.59%;
+  left: 11.07%;
+  color: dimgray;
+}
+.protect-yourself-and {
+  color: #555;
+  font-size: 20px;
+  position: absolute;
+  top: 90px;
+  left: 157px;
+  letter-spacing: 0.02em;
+  line-height: 32px;
+  font-weight: 500;
+  color: dimgray;
+  display: inline-block;
+  width: 854px;
+}
+.line-div {
+  position: absolute;
+  top: 58.5px;
+  left: 38.5px;
+  border-top: 3px solid green;
+  box-sizing: border-box;
+  width: 118px;
+  height: 3px;
+}
+.prevention-parent {
+  position: absolute;
+  top: 0;
+  left: 487px;
+  width: 195px;
+  height: 60px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  background-color: white;
+  box-shadow: 0 0 44px -5px rgba(102, 102, 102, 0.1);
+  width: 330px;
+  height: 330px;
+}
+.masks-can-help,
+.wear-a-mask {
+  color: #333;
+  font-size: 20px;
+  position: absolute;
+  top: 0;
+  left: 55px;
+  line-height: 32px;
+  font-weight: 600;
+}
+.masks-can-help {
+  top: 42px;
+  left: 0;
+  text-align: left;
+  display: inline-block;
+  width: 250px;
+  color: #777;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 28px; /* 200% */
+letter-spacing: 0.14px;
+}
+.wear-a-mask-parent {
+  position: absolute;
+  top: 224px;
+  left: 40px;
+  width: 250px;
+  height: 126px;
+}
+.person-with-medical-maskamico-icon {
+  position: absolute;
+  height: 54.59%;
+  width: 63.64%;
+  top: 0;
+  right: 20.3%;
+  bottom: 45.41%;
+  left: 16.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 330px;
+  height: 375px;
+}
+.physical-distancing {
+  position: absolute;
+  top: 0;
+  left: 23px;
+  line-height: 32px;
+  font-weight: 600;
+  color: #333;
+  font-size: 20px;
+}
+.social-distancingamico-icon {
+  position: absolute;
+  height: 54.59%;
+  width: 69.55%;
+  top: 0;
+  right: 15.3%;
+  bottom: 45.41%;
+  left: 15.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 838px;
+  width: 330px;
+  height: 375px;
+}
+.wash-your-hands {
+  position: absolute;
+  top: 0;
+  left: 6px;
+  line-height: 32px;
+  font-weight: 600;
+  color: #333;
+  font-size: 20px;
+}
+.handwashingamico-icon {
+  position: absolute;
+  height: 54.59%;
+  width: 59.85%;
+  top: 0;
+  right: 20.15%;
+  bottom: 45.41%;
+  left: 20%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-parent3,
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 419px;
+  width: 330px;
+  height: 375px;
+}
+.group-parent3 {
+  top: 219px;
+  left: 0;
+  width: 1168px;
+}
+.protect-yourself-and-others-ar-parent {
+  position: absolute;
+  top: 1849px;
+  left: 166px;
+  width: 1168px;
+  height: 594px;
+  text-align: center;
+  color: darkslategray;
+}
+.covid-19-affects-different {
+  position: absolute;
+  top: 90px;
+  left: 0;
+  letter-spacing: 0.02em;
+  line-height: 32px;
+  font-weight: 500;
+  display: inline-block;
+  width: 854px;
+  color: #777;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; /* 160% */
+letter-spacing: 0.4px;
+}
+.group-child4 {
+  position: absolute;
+  top: 58.5px;
+  left: 38.5px;
+  border-top: 3px solid green;
+  box-sizing: border-box;
+  width: 115px;
+  height: 3px;
+}
+.symptoms-parent {
+  position: absolute;
+  top: 0;
+  left: 331px;
+  width: 192px;
+  height: 60px;
+  color: darkslategray;
+}
+.contraception-methodsamico-child,
+.floor-icon1,
+.plant-icon,
+.shadows-icon1 {
+  position: absolute;
+  height: 58.18%;
+  width: 100%;
+  top: 41.82%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.contraception-methodsamico-child,
+.plant-icon,
+.shadows-icon1 {
+  height: 72.73%;
+  width: 29.87%;
+  top: 18.91%;
+  right: 35.09%;
+  bottom: 8.36%;
+  left: 35.04%;
+}
+.plant-icon,
+.shadows-icon1 {
+  height: 6.11%;
+  width: 10.04%;
+  top: 65.98%;
+  right: 3.85%;
+  bottom: 27.91%;
+  left: 86.11%;
+}
+.plant-icon {
+  height: 27.4%;
+  width: 17.17%;
+  top: 43.02%;
+  right: 1.15%;
+  bottom: 29.58%;
+  left: 81.68%;
+}
+.diplomas-icon,
+.injection-icon,
+.patch-icon,
+.poster-icon,
+.window-icon {
+  position: absolute;
+  height: 36.87%;
+  width: 26.64%;
+  top: 0;
+  right: 0.72%;
+  bottom: 63.13%;
+  left: 72.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.diplomas-icon,
+.injection-icon,
+.patch-icon,
+.poster-icon {
+  height: 20.93%;
+  width: 7.55%;
+  top: 0.16%;
+  right: 60.23%;
+  bottom: 78.91%;
+  left: 32.21%;
+}
+.injection-icon,
+.patch-icon,
+.poster-icon {
+  height: 39.4%;
+  width: 26.51%;
+  top: 2.04%;
+  right: 72.36%;
+  bottom: 58.56%;
+  left: 1.13%;
+}
+.injection-icon,
+.patch-icon {
+  height: 28.47%;
+  width: 30.6%;
+  top: 32.87%;
+  right: 3.23%;
+  bottom: 38.67%;
+  left: 66.17%;
+}
+.patch-icon {
+  height: 16.24%;
+  width: 31.49%;
+  top: 19.02%;
+  right: 2.83%;
+  bottom: 64.73%;
+  left: 65.68%;
+}
+.condom-icon,
+.diaphragm-icon,
+.iud-icon,
+.oral-contraceptives-icon {
+  position: absolute;
+  height: 25.4%;
+  width: 15.55%;
+  top: 0.6%;
+  right: 22.49%;
+  bottom: 74%;
+  left: 61.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.condom-icon,
+.diaphragm-icon,
+.oral-contraceptives-icon {
+  right: 61.87%;
+  left: 22.57%;
+}
+.diaphragm-icon,
+.oral-contraceptives-icon {
+  height: 16.24%;
+  width: 31.62%;
+  top: 19.02%;
+  right: 65.49%;
+  bottom: 64.73%;
+  left: 2.89%;
+}
+.diaphragm-icon {
+  height: 28.91%;
+  width: 31.06%;
+  top: 32.87%;
+  right: 65.96%;
+  bottom: 38.22%;
+  left: 2.98%;
+}
+.loss-of-smell {
+  position: absolute;
+  top: 100px;
+  left: 390px;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 65px;
+  color: #555;
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 19px; /* 158.333% */
+}
+.diarrhoea {
+  top: 26px;
+  left: 298px;
+  font-size: 13px;
+}
+.conjunctivitis,
+.diarrhoea,
+.headache {
+  position: absolute;
+  line-height: 24px;
+  font-weight: 500;
+}
+.conjunctivitis {
+  top: 228px;
+  left: 13px;
+  font-size: 10px;
+  display: inline-block;
+  width: 80px;
+}
+.headache {
+  top: 227px;
+  left: 391px;
+  color: #555;
+text-align: center;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 200% */
+}
+.aches-and-pains,
+.sore-throat {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.aches-and-pains {
+  top: 19px;
+  left: 114px;
+  line-height: 19px;
+  width: 59px;
+  color: #555;
+text-align: center;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: 19px; /* 158.333% */
+}
+.sore-throat {
+  top: 99px;
+  left: 21px;
+  line-height: 24px;
+  width: 55px;
+}
+.contraception-methodsamico {
+  position: absolute;
+  height: 68.81%;
+  width: 55.04%;
+  top: 31.19%;
+  right: 24.59%;
+  bottom: 0;
+  left: 20.37%;
+  color: dimgray;
+}
+.covid-19-affects-different-peo-parent {
+  position: absolute;
+  top: 2583px;
+  left: 323px;
+  width: 854px;
+  height: 654px;
+  text-align: center;
+}
+.virus-icon6 {
+  position: absolute;
+  height: 1.58%;
+  width: 1.42%;
+  top: 62.48%;
+  right: 100.05%;
+  bottom: 35.94%;
+  left: -1.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.5;
+}
+.covidhomecarelive-inner,
+.frame-icon {
+  position: absolute;
+  top: 2993px;
+  left: 1349px;
+  width: 151px;
+  height: 164px;
+}
+.frame-icon {
+  top: 2761px;
+  left: 72px;
+  width: 251px;
+  height: 236px;
+}
+.covidhomecarelive-child1 {
+  position: absolute;
+  top: 3407px;
+  left: 166px;
+  border-radius: 40px;
+  background-color: white;
+  box-shadow: 0 29px 0-14px #5bc378, 0 52px 0-24px #4db76b,
+    0 0 50px -1px rgba(82, 82, 82, 0.1);
+  width: 1168px;
+  height: 1236px;
+}
+.need-help,
+.protect-yourself-and1 {
+  position: absolute;
+  letter-spacing: 0.02em;
+}
+.protect-yourself-and1 {
+  top: 3553px;
+  left: 323px;
+  line-height: 32px;
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 854px;
+  color: #777;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; /* 160% */
+letter-spacing: 0.4px;
+}
+.need-help {
+  top: 0;
+  left: 0;
+  line-height: 40px;
+  font-weight: 600;
+  color: #333;
+  font-size: 36px;
+}
+.group-child5 {
+  position: absolute;
+  top: 58.5px;
+  left: 25.5px;
+  border-top: 3px solid mediumseagreen;
+  box-sizing: border-box;
+  width: 148px;
+  height: 3px;
+}
+.need-help-parent {
+  position: absolute;
+  top: 3467px;
+  left: 651px;
+  width: 199px;
+  height: 60px;
+  text-align: center;
+  color: darkslategray;
+}
+.background-complete-icon,
+.background-simple-icon {
+  position: absolute;
+  height: 74.82%;
+  width: 95.43%;
+  top: 1.62%;
+  right: 1.39%;
+  bottom: 23.56%;
+  left: 3.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.background-simple-icon {
+  height: 32.55%;
+  width: 94.46%;
+  top: 0;
+  right: 3.09%;
+  bottom: 67.45%;
+  left: 2.45%;
+  opacity: 0;
+}
+.character-5-icon,
+.hearts-icon,
+.vector-icon {
+  position: absolute;
+  height: 5.08%;
+  width: 3.77%;
+  top: 1.65%;
+  right: 57.68%;
+  bottom: 93.27%;
+  left: 38.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.character-5-icon,
+.hearts-icon {
+  height: 41.77%;
+  width: 47.11%;
+  right: 24.31%;
+  bottom: 56.58%;
+  left: 28.57%;
+}
+.character-5-icon {
+  height: 67.39%;
+  width: 21.85%;
+  top: 32.55%;
+  right: 1.02%;
+  bottom: 0.06%;
+  left: 77.13%;
+}
+.stay-safe {
+  position: absolute;
+  top: 54px;
+  left: 235px;
+  letter-spacing: 0.05em;
+  line-height: 22px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 93px;
+  color: #455A64;
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 22px; /* 122.222% */
+letter-spacing: 0.9px;
+text-transform: uppercase;
+}
+.character-4-icon {
+  position: absolute;
+  height: 70.21%;
+  width: 21.35%;
+  top: 29.76%;
+  right: 20.49%;
+  bottom: 0.03%;
+  left: 58.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.character-1-icon1,
+.character-2-icon1,
+.character-3-icon1,
+.table-icon {
+  position: absolute;
+  height: 67.74%;
+  width: 18.83%;
+  top: 32.2%;
+  right: 52.6%;
+  bottom: 0.06%;
+  left: 28.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.character-1-icon1,
+.character-3-icon1,
+.table-icon {
+  height: 69.04%;
+  width: 20.84%;
+  top: 30.9%;
+  right: 36.65%;
+  left: 42.5%;
+}
+.character-1-icon1,
+.table-icon {
+  height: 70.12%;
+  width: 29.1%;
+  top: 29.79%;
+  right: 70.9%;
+  bottom: 0.09%;
+  left: 0;
+}
+.table-icon {
+  height: 0.12%;
+  width: 97.92%;
+  top: 99.88%;
+  right: 0;
+  bottom: 0;
+  left: 2.08%;
+}
+.world-health-daypana {
+  position: absolute;
+  height: 7.05%;
+  width: 36.47%;
+  top: 75.97%;
+  right: 31.8%;
+  bottom: 16.98%;
+  left: 31.73%;
+  text-align: center;
+  color: #455a64;
+}
+.number-icon {
+  width: 30px;
+  position: relative;
+  height: 31.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.danish-gohel,
+.div6 {
+  position: absolute;
+  top: 29px;
+  left: 0;
+  line-height: 22px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.danish-gohel {
+  top: 0;
+}
+.parent {
+  width: 159px;
+  position: relative;
+  height: 51px;
+}
+.number-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+.covidhomecarelive-inner1 {
+  position: absolute;
+  top: 4093px;
+  left: 323px;
+  width: 204px;
+  height: 51px;
+  color: #555;
+  font-size: 18px;
+}
+.number-icon1 {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  width: 30px;
+  height: 31.8px;
+  overflow: hidden;
+}
+.group,
+.number-group {
+  position: absolute;
+  top: 0;
+  left: 45px;
+  width: 168px;
+  height: 51px;
+}
+.number-group {
+  top: 4189px;
+  left: 323px;
+  width: 213px;
+  color: #555;
+  font-size: 18px;
+}
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: whitesmoke;
+  width: 380px;
+  height: 65px;
+  opacity: 0.5;
+}
+.name {
+  position: absolute;
+  top: 22px;
+  left: 25px;
+  line-height: 22px;
+  color: #777;
+  font-size: 20px;
+}
+.name-1-icon {
+  position: absolute;
+  top: 24px;
+  left: 338px;
+  width: 17px;
+  height: 18px;
+  overflow: hidden;
+}
+.number-icon2,
+.rectangle-parent2 {
+  position: absolute;
+  top: 4093px;
+  left: 797px;
+  width: 380px;
+  height: 65px;
+}
+.number-icon2 {
+  height: 27.69%;
+  width: 4.47%;
+  top: 36.92%;
+  right: 6.58%;
+  bottom: 35.38%;
+  left: 88.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.drop-dowm-1,
+.rectangle-parent3 {
+  position: absolute;
+  top: 4183px;
+  left: 797px;
+  width: 380px;
+  height: 65px;
+}
+.drop-dowm-1 {
+  height: 27.69%;
+  width: 3.16%;
+  top: 36.92%;
+  right: 7.11%;
+  bottom: 35.38%;
+  left: 89.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child9,
+.rectangle-parent4 {
+  position: absolute;
+  top: 4273px;
+  left: 797px;
+  width: 380px;
+  height: 65px;
+}
+.group-child9 {
+  top: 0;
+  left: 0;
+  background-color: whitesmoke;
+  height: 150px;
+  opacity: 0.5;
+}
+.text-1-icon {
+  position: absolute;
+  height: 12%;
+  width: 4.74%;
+  top: 16%;
+  right: 6.32%;
+  bottom: 72%;
+  left: 88.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 4363px;
+  left: 797px;
+  width: 380px;
+  height: 150px;
+}
+.click-to-send {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  color: #444;
+  font-size: 18px;
+}
+.arrow-thin-long-02-right1 {
+  position: absolute;
+  top: 0;
+  left: 121.5px;
+  width: 28px;
+  height: 22px;
+  overflow: hidden;
+}
+.click-to-send-parent {
+  position: absolute;
+  top: 11px;
+  left: 15.5px;
+  width: 149.5px;
+  height: 22px;
+}
+.back-to-top,
+.design-developed,
+.group-parent4 {
+  position: absolute;
+}
+.group-parent4 {
+  top: 4543px;
+  left: 797px;
+  width: 165px;
+  height: 47px;
+  color: darkslategray;
+}
+.back-to-top,
+.design-developed {
+  font-weight: 500;
+  color: white;
+}
+.design-developed {
+  top: 4760px;
+  left: 166px;
+  white-space: pre-wrap;
+  color: #FFF;
+  font-size: 18px;
+}
+.back-to-top {
+  top: 4764px;
+  left: 1236px;
+  color: #FFF;
+  font-size: 18px;
+}
+.arrow-thin-long-02-right2 {
+  position: absolute;
+  top: 4763px;
+  left: 1216px;
+  width: 20px;
+  height: 19px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.ellipse-div {
+  position: absolute;
+  top: 88px;
+  left: 771px;
+  border-radius: 50%;
+  background-color: mediumseagreen;
+  width: 7px;
+  height: 7px;
+}
+.covidhomecarelive {
+  width: 100%;
+  position: relative;
+  background-color: white;
+  height: 4827px;
+  overflow: hidden;
+  text-align: left;
+  color: gray;
+}
