@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/31-01-2023.iml" filepath="$PROJECT_DIR$/.idea/31-01-2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateTimeAPI/DateTimeAPI.iml" filepath="$PROJECT_DIR$/DateTimeAPI/DateTimeAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda Expression/Lambda Expression.iml" filepath="$PROJECT_DIR$/Lambda Expression/Lambda Expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaForComparator/LambdaForComparator.iml" filepath="$PROJECT_DIR$/LambdaForComparator/LambdaForComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaForPredicates/LambdaForPredicates.iml" filepath="$PROJECT_DIR$/LambdaForPredicates/LambdaForPredicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodReference/MethodReference.iml" filepath="$PROJECT_DIR$/MethodReference/MethodReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/StreamAPI.iml" filepath="$PROJECT_DIR$/StreamAPI/StreamAPI.iml" />
+    </modules>
+  </component>
+</project>

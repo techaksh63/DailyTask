@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/26-01-2023.iml" filepath="$PROJECT_DIR$/.idea/26-01-2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maps/Maps.iml" filepath="$PROJECT_DIR$/Maps/Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchMaps/SearchMaps.iml" filepath="$PROJECT_DIR$/SearchMaps/SearchMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeMap/TreeMap.iml" filepath="$PROJECT_DIR$/TreeMap/TreeMap.iml" />
+    </modules>
+  </component>
+</project>
